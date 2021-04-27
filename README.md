@@ -2,10 +2,8 @@
 
 ## Link
 
-```
-nord-start-page.netlify.app
+https://nord-start-page.netlify.app
 
-```
 
 
 ## Project setup
