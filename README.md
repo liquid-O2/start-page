@@ -1,5 +1,13 @@
 # starting-page
 
+## Link
+
+```
+nord-start-page.netlify.app
+
+```
+
+
 ## Project setup
 ```
 npm install
